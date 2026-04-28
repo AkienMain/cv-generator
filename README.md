@@ -13,3 +13,4 @@ This is a browser-based CV generator.
 
 4. Push "Generate CV" button
 5. Print it by browser's function (Ctrl + P in Google Chrome)
+    - [Example](https://github.com/AkienMain/cv-generator/blob/main/CV_example.pdf)

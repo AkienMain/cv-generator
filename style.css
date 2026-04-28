@@ -200,7 +200,7 @@ a {
 
 .generator-info {
   position: absolute;
-  display: flex;
+  white-space: nowrap;
   left:200mm;
   transform: translate(-100%, -50%);
   color: var(--font-color);
