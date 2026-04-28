@@ -1,0 +1,99 @@
+{
+    "name": "Name",
+    "bio": "Biography",
+    "loc": "City, Country",
+    "tel": "(+xx)xxxxxxxxxx",
+    "mail": "sample-xxxxxx@sample-xxxxxx",
+    "website": "https://website-xxxxxx/xxx",
+    "linkedin": "https://www.linkedin.com/sample-xxxxxx/xxx",
+    "github": "https://github.com/sample-xxxxxx/xxx",
+    "npm": "https://www.npmjs.com/~sample-xxxxxx/xxx",
+    "language": "en",
+    "sectionTitle": {
+        "work": "Work Experience",
+        "edu": "Education",
+        "skill": "Skills",
+        "cert": "Certifications",
+        "lang": "Languages",
+        "dev": "Private Development"
+    },
+    "work": [
+        {
+            "name": "YYY Company",
+            "role": "Role",
+            "period": "Apr, 2025 - Apr, 2026",
+            "loc": "City, Country",
+            "website": "https://website-xxxxxx/xxx",
+            "info": "Description <b>Description</b> xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx<br>Description"
+        },
+        {
+            "name": "XXX Company",
+            "role": "Role",
+            "period": "Apr, 2024 - Apr, 2025",
+            "loc": "City, Country",
+            "website": "https://website-xxxxxx/xxx",
+            "info": "Description <b>Description</b> xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx<br>Description"
+        }
+    ],
+    "edu": [
+        {
+            "name": "XXX University",
+            "role": "Degree",
+            "period": "Apr, 2021 - Apr, 2024",
+            "loc": "City, Country",
+            "website": "https://website-xxxxxx/xxx",
+            "info": "Description <b>Description</b> xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx<br>Description"
+        }
+    ],
+    "skill": [
+        {
+            "name": "Web App Development",
+            "info": "Description <b>Description</b> xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx<br>Description"
+        },
+        {
+            "name": "Microsoft Office",
+            "info": "Description <b>Description</b> xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx<br>Description"
+        }
+    ],
+    "cert": [
+        {
+            "name": "Machine Learning",
+            "info": "Description <b>Description</b> xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx<br>Description",
+            "period": "Aug, 2024",
+            "website": "https://website-xxxxxx/xxx"
+        },
+        {
+            "name": "Cloud Platforms",
+            "info": "Description <b>Description</b> xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx<br>Description",
+            "period": "Aug, 2025",
+            "website": "https://website-xxxxxx/xxx"
+        }
+    ],
+    "lang": [
+        {
+            "name": "English",
+            "info": "IELTS Academic Overall Band Score XXX",
+            "period": "Apr, 2024"
+        },
+        {
+            "name": "English",
+            "info": "IELTS Academic Overall Band Score XXX",
+            "period": "Apr, 2025"
+        }
+    ],
+    "dev": [
+        {
+            "name": "Project A",
+            "github": "https://github.com/sample-xxxxxx/xxx",
+            "role": "OCR, CNN, Machine Learning",
+            "info": "Python, Keras, OpenCV, NumPy, Pandas, Matplotlib"
+        },
+        {
+            "name": "Project B",
+            "github": "https://github.com/AkienMain/yogapose-classification-ocr",
+            "role": "OCR, CNN, Machine Learning",
+            "info": "Python, Keras, OpenCV, NumPy, Pandas, Matplotlib, seaborn"
+        }
+    ]
+}
+
