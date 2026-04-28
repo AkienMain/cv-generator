@@ -181,7 +181,7 @@ function createSectionItemLang(item) {
 function createSectionItemDev(item) {
   let e = createSectionItem();
   e.appendChild(createSectionItemName(item["name"]));
-  e.appendChild(createSectionItemAddition(item, ["period", "loc", "website"]));
+  e.appendChild(createSectionItemAddition(item, ["github"]));
   e.appendChild(createSectionItemSub(item["role"]));
   e.appendChild(createSectionItemContent(item["info"]));
   return e;
