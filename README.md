@@ -1,5 +1,7 @@
 # What is this?
 
+![images/image_001.png](https://github.com/AkienMain/cv-generator/blob/main/images/image_001.png?raw=true)
+
 This is a browser-based CV generator.
 
 # How to use
